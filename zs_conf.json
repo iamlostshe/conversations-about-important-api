@@ -1,0 +1,7 @@
+{
+   "name": "conversations-about-important-api",
+   "stack": ["curl_cffi", "lxml"],
+   "sites": ["разговорыоважном.рф"],
+   "status": true,
+   "last_check": 1753555206,
+}
